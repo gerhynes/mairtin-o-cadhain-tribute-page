@@ -7,7 +7,7 @@ body {
 }
 
 header {
-  background-image: url(https://www.irishtimes.com/polopoly_fs/1.2152977.1427394596!/image/image.jpg);
+  background-image: url("https://res.cloudinary.com/gerhynes/image/upload/q_auto/v1543007472/mairtin-o-cadhain_jumbku.jpg");
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-size: cover;
@@ -44,7 +44,7 @@ blockquote {
 }
 
 #video {
-  background-image: url(https://nos.ie/wp-content/uploads/2017/01/dream-dearg-1400x660.jpg);
+  background-image: url("https://res.cloudinary.com/gerhynes/image/upload/q_auto/v1543007484/an-dream-dearg_krt1zz.jpg");
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-position: 50% 50%;
